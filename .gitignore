@@ -1,21 +1,13 @@
 # Node
-node_modules/
 frontend/node_modules/
 
-# Build output (Netlify builds this)
-frontend/dist/
-
 # Python
-venv/
 backend/venv/
 __pycache__/
 *.pyc
 
 # Env
 .env
-.env.*
 
-# OS / Editor
+# OS
 .DS_Store
-.vscode/
-.idea/
